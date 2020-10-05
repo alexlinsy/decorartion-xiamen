@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Decoration`,
+    name: `Decoration Limited Xiamen`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `厦门戴克瑞建筑装饰设计工程有限公司`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Decoration 戴克瑞`,
       maxWidth: 652,
     },
     social: [
@@ -24,10 +24,6 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
@@ -48,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Decoration Limited Xiamen`,
+        short_name: `Decoration`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -59,8 +55,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
+      options: {},
     },
   ],
 };

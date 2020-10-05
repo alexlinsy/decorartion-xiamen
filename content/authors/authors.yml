@@ -1,0 +1,9 @@
+- name: Decoration Limited Xiamen
+  bio: |
+    专业公装设计- 酒店, ktv, 餐饮, 娱乐， 别墅等公装设计及施工
+  avatar: ./avatars/decorationLogo.png
+  featured: true
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
